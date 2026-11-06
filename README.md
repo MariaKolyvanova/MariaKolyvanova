@@ -1,13 +1,7 @@
 <h1 align="center">Мария Колыванова</h1>
 <p align="center">Java-разработчик</p>
 
-Привет, я Мария! В 2026 году окончила вуз по направлению «Прикладная информатика в экономике».
-
-Занимаюсь разработкой серверной части приложений на Java и Spring. Мне интересно проектировать REST API, работать с базами данных, настраивать безопасность и писать тесты.
-
-Сейчас ищу стажировку или позицию Junior Java Developer, где смогу развиваться и работать над реальными задачами.
-
-<p>
+<p align="center">
     <a href="mailto:maria_kolyvanova@bk.ru">
         <img src="https://img.shields.io/badge/Email-maria__kolyvanova%40bk.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email">
     </a>
@@ -15,6 +9,12 @@
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
 </p>
+
+Привет, я Мария! В 2026 году окончила вуз по направлению «Прикладная информатика в экономике».
+
+Пробовала Frontend и Android, но в итоге отдала предпочтение backend-разработке.
+
+Занимаюсь разработкой серверной части приложений на Java и Spring. Мне интересно проектировать REST API, работать с базами данных, настраивать безопасность и писать тесты.
 
 ## Проекты
 
