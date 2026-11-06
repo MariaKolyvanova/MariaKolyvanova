@@ -16,8 +16,6 @@
     </a>
 </p>
 
----
-
 ## Проекты
 
 ### Pet-проект
@@ -31,8 +29,6 @@
 
 ### Решения задач
 - [Algorithms and Data Structures](https://github.com/MariaKolyvanova/algorithms-and-data-structures) — решения задач по алгоритмам и структурам данных с LeetCode и CodeRun.
-
----
 
 ## Стек технологий
 
@@ -104,8 +100,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
 </p>
-
----
 
 ## Курсы
 
