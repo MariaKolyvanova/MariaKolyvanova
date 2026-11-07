@@ -10,25 +10,11 @@
     </a>
 </p>
 
-Привет, я Мария! В 2026 году окончила вуз по направлению «Прикладная информатика в экономике».
+Привет, я Мария! Мне 22 года. В 2026 году окончила вуз по направлению «Прикладная информатика в экономике».
 
 Пробовала Frontend и Android, но в итоге отдала предпочтение backend-разработке.
 
-Занимаюсь разработкой серверной части приложений на Java и Spring. Мне нравится проектировать REST API, работать с базами данных, настраивать безопасность и писать тесты.
-
-## Проекты
-
-### Pet-проект
-
-- [Chatter](https://github.com/MariaKolyvanova/chatter) — веб-приложение с REST API для публикации коротких постов. Реализованы лента, ответы, лайки, репосты, подписки и инструменты модерации.
-
-### Учебные работы
-- [AgroPulse](https://github.com/MariaKolyvanova/AgroPulse) — веб-приложение (Spring MVC) для работы с финансовой отчётностью и ESG-показателями. Выпускная квалификационная работа.
-- [Apiary Assistant](https://github.com/MariaKolyvanova/ApiaryAssistant) — Android-приложение для голосового заполнения отчётов. Курсовая работа.
-- [ОргоМаркет](https://github.com/MariaKolyvanova/OrgoMarket) — сайт магазина органических продуктов. Курсовая работа.
-
-### Решения задач
-- [Algorithms and Data Structures](https://github.com/MariaKolyvanova/algorithms-and-data-structures) — решения задач по алгоритмам и структурам данных с LeetCode и CodeRun.
+Занимаюсь разработкой серверной части приложений на Java и Spring.
 
 ## Стек технологий
 
@@ -93,15 +79,21 @@
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose">
 </p>
 
-### Веб-технологии
+## Проекты
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
-</p>
+### Pet-проект
 
-## Курсы
+- [Chatter](https://github.com/MariaKolyvanova/chatter) — веб-приложение с REST API для публикации коротких постов. Реализованы лента, ответы, лайки, репосты, подписки и инструменты модерации.
+
+### Учебные работы
+- [AgroPulse](https://github.com/MariaKolyvanova/AgroPulse) — веб-приложение (Spring MVC) для работы с финансовой отчётностью и ESG-показателями. Выпускная квалификационная работа.
+- [Apiary Assistant](https://github.com/MariaKolyvanova/ApiaryAssistant) — Android-приложение для голосового заполнения отчётов. Курсовая работа.
+- [ОргоМаркет](https://github.com/MariaKolyvanova/OrgoMarket) — сайт магазина органических продуктов. Курсовая работа.
+
+### Решения задач
+- [Algorithms and Data Structures](https://github.com/MariaKolyvanova/algorithms-and-data-structures) — решения задач по алгоритмам и структурам данных с LeetCode и CodeRun.
+
+## Достижения
 
 Прошла курс Яндекса «Тренировки на 10 из 10» по алгоритмам и структурам данных.
 
